@@ -1,0 +1,32 @@
+{
+    "jogos": {
+        "Csgo": {
+            "id": "Csgo",
+            "nome": "Counter Strike Global Offensive",
+            "produtora": "Steam",
+            "tipo": "First person shooter"
+        },
+        "LoL": {
+            "id": "LoL",
+            "nome": "League Of Legends",
+            "produtora": "Riot Games",
+            "tipo": "RPG"
+        }
+    },
+
+    "jogadores": {
+        "ana": {
+            "id": "ana", 
+            "nome": "Ana",
+            "idade": 20,
+            "joga": [ "LoL", "Csgo" ]
+        },
+        "bia": { 
+            "id": "bia", 
+            "nome": "Bia",
+            "idade": 21,
+            "joga": [ "LoL" ]
+        }
+    }
+
+}
