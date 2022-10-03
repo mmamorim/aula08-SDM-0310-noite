@@ -1,32 +1,53 @@
 {
-    "jogos": {
-        "Csgo": {
-            "id": "Csgo",
-            "nome": "Counter Strike Global Offensive",
-            "produtora": "Steam",
-            "tipo": "First person shooter"
-        },
-        "LoL": {
-            "id": "LoL",
-            "nome": "League Of Legends",
-            "produtora": "Riot Games",
-            "tipo": "RPG"
-        }
+  "jogos": {
+    "Csgo": {
+      "id": "Csgo",
+      "nome": "Counter Strike Global Offensive",
+      "produtora": "Steam",
+      "tipo": "First person shooter"
     },
-
-    "jogadores": {
-        "ana": {
-            "id": "ana", 
-            "nome": "Ana",
-            "idade": 20,
-            "joga": [ "LoL", "Csgo" ]
-        },
-        "bia": { 
-            "id": "bia", 
-            "nome": "Bia",
-            "idade": 21,
-            "joga": [ "LoL" ]
-        }
+    "LoL": {
+      "id": "LoL",
+      "nome": "League Of Legends",
+      "produtora": "Riot Games",
+      "tipo": "RPG"
+    },
+    "pacman": {
+      "id": "pacman",
+      "nome": "Pac man",
+      "produtora": "SEGA",
+      "tipo": "old"
+    },
+    "river_ride": {
+      "id": "river_ride",
+      "nome": "River Ride",
+      "produtora": "SEGA",
+      "tipo": "plataforma"
+    },
+    "teste": {
+      "id": "teste",
+      "nome": "Teste",
+      "produtora": "",
+      "tipo": ""
     }
-
+  },
+  "jogadores": {
+    "ana": {
+      "id": "ana",
+      "nome": "Ana",
+      "idade": 20,
+      "joga": [
+        "LoL",
+        "Csgo"
+      ]
+    },
+    "bia": {
+      "id": "bia",
+      "nome": "Bia",
+      "idade": 21,
+      "joga": [
+        "LoL"
+      ]
+    }
+  }
 }
