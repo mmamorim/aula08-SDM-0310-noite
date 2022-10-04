@@ -12,3 +12,5 @@ sgdb.db.jogos['teste'] = {
 await sgdb.write()
 console.log(sgdb.db);
 ```
+
+Thunder Client

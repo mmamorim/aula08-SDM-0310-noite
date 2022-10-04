@@ -29,6 +29,18 @@
       "nome": "Teste",
       "produtora": "",
       "tipo": ""
+    },
+    "abc": {
+      "id": "abc",
+      "nome": "abc",
+      "produtora": "yyyyy",
+      "tipo": "xxxx"
+    },
+    "xyz": {
+      "id": "xyz",
+      "nome": "xyz",
+      "produtora": "sdwdwdwd",
+      "tipo": "wdwdwdwdwd"
     }
   },
   "jogadores": {
